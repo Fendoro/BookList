@@ -12,7 +12,7 @@ Checkout this repo, install dependencies, then start the webpack process with th
 
 ```
 > git clone https://github.com/Fendoro/BookList.git
-> cd YouTubeVideoList
+> cd BookList
 > npm install
 > npm start
 ```
